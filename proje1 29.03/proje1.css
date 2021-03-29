@@ -1,0 +1,235 @@
+*
+{
+	margin:0;/*kenarlarda boşluk kalmaması için yazıyoruz*/
+	padding:0;
+}
+
+body
+{
+	background-color:#c0c0c0; /*arka plan rengi*/
+}
+.ustbolum
+{
+	width:1300px;
+	height:100px; 
+	background-color: #8f8f8f;
+	position: fixed;
+  	top: 0px;
+  	margin-left: 32px;
+}
+.ustbaslik
+{
+	opacity:0.5;
+	font-size: 30px;
+	font-family:Courier;
+	position: fixed;
+	top:30px;
+	left:450px; 
+}
+.altbaslik
+{
+	opacity:0.5;
+	font-size: 15px;
+	font-family:Courier;
+	position: fixed;
+	margin-left: 550px; 
+	margin-top: 45px;
+}
+.ortabolum
+{
+	width:1300px;
+	height:457px; 
+	margin: 0 auto;
+	background-color: #c0c0c0;
+}
+.kelimeuzunluk
+{
+	background-color: #444;
+	opacity:0.5;
+	width: 160px;
+	height: 25px;
+	position:fixed;
+	top: 120px;
+	left:32px
+}
+.kelime
+{
+	background-color: #444;
+	opacity:0.5;
+	width: 150px;
+	height: 25px;
+	position:fixed;
+	top: 120px;
+	left:1182px
+}
+.bir
+{
+	background-color: #444;
+	opacity:0.5;
+	width: 150px;
+	height: 25px;
+	position:fixed;
+	top: 202px;
+	left:80px
+}
+.iki
+{
+	background-color: #444;
+	opacity:0.5;
+	width: 150px;
+	height: 25px;
+	position:fixed;
+	top: 230px;
+	left: 210px
+}
+.uc
+{
+	background-color: #444;
+	opacity:0.5;
+	width: 150px;
+	height: 25px;
+	position:fixed;
+	top: 260px;
+	left: 340px
+}
+.dort
+{
+	background-color: #444;
+	opacity:0.5;
+	width: 150px;
+	height: 25px;
+	position:fixed;
+	top: 290px;
+	left: 470px
+}
+.bes
+{
+	background-color: #444;
+	opacity:0.5;
+	width: 150px;
+	height: 25px;
+	position:fixed;
+	top: 320px;
+	left: 600px
+}
+.alti
+{
+	background-color: #444;
+	opacity:0.5;
+	width: 150px;
+	height: 25px;
+	position:fixed;
+	top: 350px;
+	left: 730px
+}
+.yedi
+{
+	background-color: #444;
+	opacity:0.5;
+	width: 150px;
+	height: 25px;
+	position:fixed;
+	top: 380px;
+	left: 860px
+}
+.sekiz
+{
+	background-color: #444;
+	opacity:0.5;
+	width: 150px;
+	height: 25px;
+	position:fixed;
+	top: 410px;
+	left: 990px
+}
+.dokuz
+{
+	background-color: #444;
+	opacity:0.5;
+	width: 150px;
+	height: 25px;
+	position:fixed;
+	top: 440px;
+	left: 1120px
+}
+.altbolum
+{
+	width:1300px;
+	height:100px;
+	background-color: #8f8f8f;
+	position: fixed;
+  	top: 558px;
+  	margin-left: 32px;
+}
+#p1
+{
+	position: fixed;
+	top: 205px;
+	left:110px
+}
+#p2
+{
+	position: fixed;
+	top: 232px;
+	left:240px
+}
+#p3
+{
+	position: fixed;
+	top: 262px;
+	left:360px
+}
+#p4
+{
+	position: fixed;
+	top: 292px;
+	left:490px
+}
+#p5
+{
+	position: fixed;
+	top: 322px;
+	left:620px
+}
+#p6
+{
+	position: fixed;
+	top: 352px;
+	left:750px
+}
+#p7
+{
+	position: fixed;
+	top: 382px;
+	left:870px
+}
+#p8
+{
+	position: fixed;
+	top: 412px;
+	left:1000px
+}
+#p9
+{
+	position: fixed;
+	top: 442px;
+	left:1125px
+}
+#p10
+{
+	position: fixed;
+	top: 122px;
+	left:35px
+}
+#p11
+{
+	position: fixed;
+	top: 122px;
+	left:1190px
+}
+#p12
+{
+	position: fixed;
+	top: 122px;
+	left:1220px
+}
